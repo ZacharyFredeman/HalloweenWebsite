@@ -1,5 +1,5 @@
 import React from "react";
-import { TreatLogo, TreatImage, TreatContainer, TreatBG, TreatContent, TreatP, TreatWrap} from "./TreatElements";
+import { TreatLogo, TreatImage, TreatContainer, TreatContent, TreatP, TreatWrap} from "./TreatElements";
 import image from '../../images/dog.jpg'
 
 const Treat=() =>{
