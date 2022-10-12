@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/HalloweenWebsite/static/css/main.d7da34c1.css",
+    "main.js": "/HalloweenWebsite/static/js/main.05957dc7.js",
+    "static/media/Spookypumpkin.mp4": "/HalloweenWebsite/static/media/Spookypumpkin.4701de8430157ac02c83.mp4",
+    "static/media/dog.jpg": "/HalloweenWebsite/static/media/dog.82a6a171610cb8e9af78.jpg",
+    "static/media/ghost.jpg": "/HalloweenWebsite/static/media/ghost.155b753110e79ec93b4e.jpg",
+    "static/media/horrormovie.svg": "/HalloweenWebsite/static/media/horrormovie.caee89c768fa69d6a923395f11103f81.svg",
+    "static/media/donut.svg": "/HalloweenWebsite/static/media/donut.2440308b5d9085b68f4a430ce5a650dc.svg",
+    "static/media/startled.svg": "/HalloweenWebsite/static/media/startled.d8ab8a878497ac7178934d9f7bb348bf.svg",
+    "static/media/pumpkin.svg": "/HalloweenWebsite/static/media/pumpkin.39c45b47a0859337d284cf5594ec499c.svg",
+    "static/media/spooky.svg": "/HalloweenWebsite/static/media/spooky.ef18409cd3200cd6fd3ea341a564cf35.svg",
+    "index.html": "/HalloweenWebsite/index.html",
+    "main.d7da34c1.css.map": "/HalloweenWebsite/static/css/main.d7da34c1.css.map",
+    "main.05957dc7.js.map": "/HalloweenWebsite/static/js/main.05957dc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.05957dc7.js"
+  ]
+}
