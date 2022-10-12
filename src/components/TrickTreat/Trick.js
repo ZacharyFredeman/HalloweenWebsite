@@ -1,5 +1,5 @@
 import React from "react";
-import { TrickContainer, TrickContent, TrickBg, TrickP, TrickImage, TrickLogo, TrickWrap } from "./TrickElements";
+import { TrickContainer, TrickContent, TrickP, TrickImage, TrickLogo, TrickWrap } from "./TrickElements";
 import image from '../../images/ghost.jpg'
 const Trick=() =>{
     return(
