@@ -1,3 +1,14 @@
+To view website Foloow this link to versel
+  https://halloween-website-28j592tw7-zacharyfredeman.vercel.app/ 
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
