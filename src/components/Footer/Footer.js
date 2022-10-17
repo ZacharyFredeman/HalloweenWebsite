@@ -65,7 +65,7 @@ const Footer= () => {
                             Halloween
                         </SocialLogo>
                         <WebsiteRights>
-                            Ⓒ {new Date().getFullYear()} Allrights Reserved
+                            Ⓒ {new Date().getFullYear()} All Rights Reserved
                         </WebsiteRights>
                         
                     </SocialMediaWrap>

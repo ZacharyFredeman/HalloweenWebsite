@@ -12,23 +12,23 @@ const Services = () =>{
             <ServicesWrapper>
                 <ServicesCard>
                     <ServicesIcon src ={Icon1}/>
-                    <ServicesH2>Carve pumpkins</ServicesH2>
+                    <ServicesH2>Carve Pumpkins</ServicesH2>
                     <ServicesP>
-                        see who can make the scariest pumpkins
+                        See who can make the scariest pumpkins.
                     </ServicesP>
                 </ServicesCard>
                 <ServicesCard>
                     <ServicesIcon src ={Icon2}/>
-                    <ServicesH2>Watch scary movies</ServicesH2>
+                    <ServicesH2>Watch Scary Movies</ServicesH2>
                     <ServicesP>
                         I suggest "The Evil Dead"!
                     </ServicesP>
                 </ServicesCard>
                 <ServicesCard>
                     <ServicesIcon src ={Icon3}/>
-                    <ServicesH2>Make fall snacks</ServicesH2>
+                    <ServicesH2>Make Fall Snacks</ServicesH2>
                     <ServicesP>
-                        Hard to beat apple cider donuts
+                        Hard to beat apple cider donuts.
                     </ServicesP>
                 </ServicesCard>
             </ServicesWrapper>

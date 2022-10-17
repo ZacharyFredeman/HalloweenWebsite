@@ -20,7 +20,7 @@ const Hero = ()=>{
                     Happy Halloween
                 </Heroh1>
                 <HeroP>
-                    Ready to be scared
+                    Ready to be scared?
                 </HeroP>
                 <HeroBtnWrapper>
                     <ButtonSt to="about" 
